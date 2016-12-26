@@ -1,4 +1,6 @@
 ﻿Sora_suke's License For Minecraft Mod Version1.0
+作者: sora_suke(Twitter: @sora_suke_mc)
+https://github.com/sora-suke/Sora_suke-s-License-For-Minecraft-Mod-Version1.0
 
 1,何があろうとMODの製作者は責任を取らない｡
 2,Youtube等の動画共有サービス､ブログ､ウェブサイトでの使用は自由｡

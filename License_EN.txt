@@ -1,4 +1,9 @@
 Sora_suke's License For Minecraft Mod Version1.0
+Created by sora_suke(Twitter: @sora_suke_mc)
+https://github.com/sora-suke/Sora_suke-s-License-For-Minecraft-Mod-Version1.0
+
+I(sora_suke) do not take responsibility even if the translation of this sentence is wrong!
+Japanese license(License_JP.txt) is accurate!
 
 1,No matter what, the producer of MOD does not take responsibility.
 2,Free to use on Youtube, other video hosting services, blogs and websites.
